@@ -3,7 +3,7 @@ import {
     withStyles, Card, CardContent, CardHeader, CardActions, Typography
 } from 'material-ui';
 import PropTypes from 'prop-types';
-
+sdasdasda adasd 
 import { chartCardStyle } from 'variables/styles';
 
 class ChartCard extends React.Component{
